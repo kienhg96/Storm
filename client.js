@@ -1,3 +1,5 @@
+console.log("Hacking script injecting...");
+
 const data = {
   "10257869": "C",
   "28745488": "A",
